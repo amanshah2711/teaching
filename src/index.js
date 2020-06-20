@@ -28,8 +28,8 @@ const routing = (
           </Col>
         </Row>
         <hr className="col-md-10" style={{marginTop:0}}></hr>
-        <Route path='/' component={Teaching} />
-        <Route path='/notes' component={Notes} />
+        <Route path='/teaching' component={Teaching} />
+        <Route path='/teaching/notes' component={Notes} />
         <Route path='/sample' component={Sample} />
       </Container>
   </Router>
