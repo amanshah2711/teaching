@@ -21,7 +21,6 @@ const routing = (
                 <Navbar.Collapse id="basic-navbar-nav">
                   <Nav className="mr-auto">
                     <Link to='/teaching'>Teaching</Link>
-                    <Link to='/teaching/notes'>Notes</Link>
                   </Nav> 
                 </Navbar.Collapse>
             </Navbar>
