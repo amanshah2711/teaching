@@ -1,0 +1,39 @@
+{
+  "files": {
+    "main.css": "/teaching/static/css/main.d1b05096.chunk.css",
+    "main.js": "/teaching/static/js/main.2b5f72a0.chunk.js",
+    "main.js.map": "/teaching/static/js/main.2b5f72a0.chunk.js.map",
+    "runtime-main.js": "/teaching/static/js/runtime-main.e207edca.js",
+    "runtime-main.js.map": "/teaching/static/js/runtime-main.e207edca.js.map",
+    "static/css/2.74189dbb.chunk.css": "/teaching/static/css/2.74189dbb.chunk.css",
+    "static/js/2.708c3245.chunk.js": "/teaching/static/js/2.708c3245.chunk.js",
+    "static/js/2.708c3245.chunk.js.map": "/teaching/static/js/2.708c3245.chunk.js.map",
+    "index.html": "/teaching/index.html",
+    "precache-manifest.ca88ee0158a3020407f2569c24d1218b.js": "/teaching/precache-manifest.ca88ee0158a3020407f2569c24d1218b.js",
+    "service-worker.js": "/teaching/service-worker.js",
+    "static/css/2.74189dbb.chunk.css.map": "/teaching/static/css/2.74189dbb.chunk.css.map",
+    "static/css/main.d1b05096.chunk.css.map": "/teaching/static/css/main.d1b05096.chunk.css.map",
+    "static/js/2.708c3245.chunk.js.LICENSE.txt": "/teaching/static/js/2.708c3245.chunk.js.LICENSE.txt",
+    "static/media/black_bishop.svg": "/teaching/static/media/black_bishop.1f3b8d1a.svg",
+    "static/media/black_king.svg": "/teaching/static/media/black_king.66e1bcad.svg",
+    "static/media/black_knight.svg": "/teaching/static/media/black_knight.d39f1d02.svg",
+    "static/media/black_pawn.svg": "/teaching/static/media/black_pawn.1c52d8c4.svg",
+    "static/media/black_queen.svg": "/teaching/static/media/black_queen.7b3e33e4.svg",
+    "static/media/black_rook.svg": "/teaching/static/media/black_rook.96872a66.svg",
+    "static/media/board.png": "/teaching/static/media/board.2219732b.png",
+    "static/media/icon_queen.jpg": "/teaching/static/media/icon_queen.4e749842.jpg",
+    "static/media/white_bishop.svg": "/teaching/static/media/white_bishop.09004fd2.svg",
+    "static/media/white_king.svg": "/teaching/static/media/white_king.250510ff.svg",
+    "static/media/white_knight.svg": "/teaching/static/media/white_knight.e6294efe.svg",
+    "static/media/white_pawn.svg": "/teaching/static/media/white_pawn.d69014fb.svg",
+    "static/media/white_queen.svg": "/teaching/static/media/white_queen.4320a2dd.svg",
+    "static/media/white_rook.svg": "/teaching/static/media/white_rook.095b1a06.svg"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.e207edca.js",
+    "static/css/2.74189dbb.chunk.css",
+    "static/js/2.708c3245.chunk.js",
+    "static/css/main.d1b05096.chunk.css",
+    "static/js/main.2b5f72a0.chunk.js"
+  ]
+}
