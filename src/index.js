@@ -20,7 +20,8 @@ const routing = (
                 <Navbar.Toggle aria-controls="basic-navbar-nav" />
                 <Navbar.Collapse id="basic-navbar-nav">
                   <Nav className="mr-auto">
-                    <Link to='/'>Teaching</Link>
+                    <Link to='/teaching'>Teaching</Link>
+                    <Link to='/notes'>Teaching</Link>
                   </Nav> 
                 </Navbar.Collapse>
             </Navbar>
