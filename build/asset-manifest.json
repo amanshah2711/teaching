@@ -1,19 +1,19 @@
 {
   "files": {
     "main.css": "/teaching/static/css/main.d1b05096.chunk.css",
-    "main.js": "/teaching/static/js/main.86d6d7d6.chunk.js",
-    "main.js.map": "/teaching/static/js/main.86d6d7d6.chunk.js.map",
+    "main.js": "/teaching/static/js/main.7134f010.chunk.js",
+    "main.js.map": "/teaching/static/js/main.7134f010.chunk.js.map",
     "runtime-main.js": "/teaching/static/js/runtime-main.bdab9469.js",
     "runtime-main.js.map": "/teaching/static/js/runtime-main.bdab9469.js.map",
     "static/css/2.74189dbb.chunk.css": "/teaching/static/css/2.74189dbb.chunk.css",
-    "static/js/2.7470ca71.chunk.js": "/teaching/static/js/2.7470ca71.chunk.js",
-    "static/js/2.7470ca71.chunk.js.map": "/teaching/static/js/2.7470ca71.chunk.js.map",
+    "static/js/2.a7ab62ad.chunk.js": "/teaching/static/js/2.a7ab62ad.chunk.js",
+    "static/js/2.a7ab62ad.chunk.js.map": "/teaching/static/js/2.a7ab62ad.chunk.js.map",
     "index.html": "/teaching/index.html",
-    "precache-manifest.406c39bc64710eec08e4888a59557fa7.js": "/teaching/precache-manifest.406c39bc64710eec08e4888a59557fa7.js",
+    "precache-manifest.a6e28b9cfc6b77d59318e12b07b0c216.js": "/teaching/precache-manifest.a6e28b9cfc6b77d59318e12b07b0c216.js",
     "service-worker.js": "/teaching/service-worker.js",
     "static/css/2.74189dbb.chunk.css.map": "/teaching/static/css/2.74189dbb.chunk.css.map",
     "static/css/main.d1b05096.chunk.css.map": "/teaching/static/css/main.d1b05096.chunk.css.map",
-    "static/js/2.7470ca71.chunk.js.LICENSE.txt": "/teaching/static/js/2.7470ca71.chunk.js.LICENSE.txt",
+    "static/js/2.a7ab62ad.chunk.js.LICENSE.txt": "/teaching/static/js/2.a7ab62ad.chunk.js.LICENSE.txt",
     "static/media/black_bishop.svg": "/teaching/static/media/black_bishop.1f3b8d1a.svg",
     "static/media/black_king.svg": "/teaching/static/media/black_king.66e1bcad.svg",
     "static/media/black_knight.svg": "/teaching/static/media/black_knight.d39f1d02.svg",
@@ -21,6 +21,7 @@
     "static/media/black_queen.svg": "/teaching/static/media/black_queen.7b3e33e4.svg",
     "static/media/black_rook.svg": "/teaching/static/media/black_rook.96872a66.svg",
     "static/media/board.png": "/teaching/static/media/board.2219732b.png",
+    "static/media/disc_00.pdf": "/teaching/static/media/disc_00.32cd1fdb.pdf",
     "static/media/icon_queen.jpg": "/teaching/static/media/icon_queen.4e749842.jpg",
     "static/media/white_bishop.svg": "/teaching/static/media/white_bishop.09004fd2.svg",
     "static/media/white_king.svg": "/teaching/static/media/white_king.250510ff.svg",
@@ -32,8 +33,8 @@
   "entrypoints": [
     "static/js/runtime-main.bdab9469.js",
     "static/css/2.74189dbb.chunk.css",
-    "static/js/2.7470ca71.chunk.js",
+    "static/js/2.a7ab62ad.chunk.js",
     "static/css/main.d1b05096.chunk.css",
-    "static/js/main.86d6d7d6.chunk.js"
+    "static/js/main.7134f010.chunk.js"
   ]
 }
