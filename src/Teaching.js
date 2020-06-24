@@ -18,7 +18,7 @@ class Teaching extends React.Component{
                     <Col md={5}>
                            <p> <b>Discussion:</b> Wed/Fri 7:30AM - 9:00AM PDT</p>
                            <p> <b>Office Hours:</b> TBD </p>
-                           <p><b><a>Anonymous Feedback Form</a></b></p>
+                           <p><b><a href="https://docs.google.com/forms/d/e/1FAIpQLSe051PwRPnKIJ9zPWQhA-6VBW3PgnyunvbA6cT75uswLXWJPQ/viewform">Anonymous Feedback Form</a></b></p>
                     </Col>
                     <Col md={5}>
                         <ul>
