@@ -4,6 +4,8 @@ import Container from 'react-bootstrap/Container';
 import {Table, Badge, Row, Col} from 'react-bootstrap';
 import 'bootstrap/dist/css/bootstrap.css';
 import disc0 from './disc_00.pdf';
+import disc0wk from './disc00.pdf';
+import disc0wksol from './disc00_sol.pdf';
 
 class Teaching extends React.Component{
     render() {
@@ -51,7 +53,7 @@ class Teaching extends React.Component{
                                             <td>0</td>
                                             <td>Wed 6/22</td>
                                             <td>Welcome to 61A! <Badge variant='primary'> <a href={disc0} style={{color:"white"}} target="_blank">slides</a></Badge></td>
-                                            <td>Disc 00 <Badge variant='primary'>solution</Badge></td>
+                                            <td><a href={disc0wk} style={{color:"black"}} target="_blank">Disc 00</a><Badge variant='primary'><a href={disc0wksol} style={{color:"white"}} target="_blank">solution</a></Badge></td>
                                         </tr>
                                         <tr>
                                             <td>1</td>
