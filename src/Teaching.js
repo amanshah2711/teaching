@@ -49,7 +49,7 @@ class Teaching extends React.Component{
                                         <tr>
                                             <td>0</td>
                                             <td>Wed 6/22</td>
-                                            <td>Welcome to 61A! <Badge variant='primary'>slides</Badge></td>
+                                            <td>Welcome to 61A! <Badge variant='primary'> <a href="teaching/slides/disc_00.pdf"></a>slides</Badge></td>
                                             <td>Disc 00 <Badge variant='primary'>solution</Badge></td>
                                         </tr>
                                         <tr>
