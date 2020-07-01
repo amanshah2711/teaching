@@ -6,6 +6,11 @@ import 'bootstrap/dist/css/bootstrap.css';
 import disc0 from './disc_00.pdf';
 import disc0wk from './disc00.pdf';
 import disc0wksol from './disc00_sol.pdf';
+import disc1wk from './disc01.pdf';
+import disc1wksol from './disc01_sol.pdf';
+import disc02 from './disc_02.pdf';
+import disc2wk from './disc02.pdf';
+import disc2wksol from './disc02_sol.pdf';
 
 class Teaching extends React.Component{
     render() {
@@ -58,14 +63,14 @@ class Teaching extends React.Component{
                                         <tr>
                                             <td>1</td>
                                             <td>Fri 6/26</td>
-                                            <td>Environment Diagrams, Control, Self Reference <Badge variant='primary'>slides</Badge></td>
-                                            <td>Disc 01 <Badge variant='primary'>solution</Badge></td>
+                                            <td>Environment Diagrams, Control, Self Reference <Badge variant='primary'><a style={{color:"white"}} target="_blank">slides</a></Badge></td>
+                                            <td><a href={disc1wk} style={{color:"black"}} target="_blank">Disc 01</a><Badge variant='primary'><a href={disc1wksol} style={{color:"white"}} target="_blank">solution</a></Badge></td>
                                         </tr>
                                         <tr>
                                             <td>2</td>
                                             <td>Wed 7/1</td>
-                                            <td>Higher-Order Functions <Badge variant='primary'>slides</Badge></td>
-                                            <td>Disc 02 <Badge variant='primary'>solution</Badge></td>
+                                            <td>Higher-Order Functions <Badge variant='primary'><a href={disc02} style={{color:"white"}} target="_blank">slides</a></Badge></td>
+                                            <td><a href={disc2wk} style={{color:"black"}} target="_blank">Disc 02</a><Badge variant='primary'><a href={disc2wksol} style={{color:"white"}} target="_blank">solution</a></Badge></td>
                                         </tr>
                                         <tr>
                                             <td>3</td>
