@@ -1,27 +1,27 @@
 self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
-    "revision": "ec0dde012c61a586e148ae4ee85df238",
+    "revision": "535380ce1c5d28e216c793289fa35895",
     "url": "/teaching/index.html"
   },
   {
-    "revision": "a4b6d82547ea89a882a3",
+    "revision": "d58a16822ce5798e803c",
     "url": "/teaching/static/css/2.74189dbb.chunk.css"
   },
   {
-    "revision": "300bf7c0c0f91aedfee3",
+    "revision": "0fdb224047c5d1fdaadb",
     "url": "/teaching/static/css/main.d1b05096.chunk.css"
   },
   {
-    "revision": "a4b6d82547ea89a882a3",
-    "url": "/teaching/static/js/2.dea646d5.chunk.js"
+    "revision": "d58a16822ce5798e803c",
+    "url": "/teaching/static/js/2.93e10284.chunk.js"
   },
   {
     "revision": "4386012a6d334684338618496b7aac20",
-    "url": "/teaching/static/js/2.dea646d5.chunk.js.LICENSE.txt"
+    "url": "/teaching/static/js/2.93e10284.chunk.js.LICENSE.txt"
   },
   {
-    "revision": "300bf7c0c0f91aedfee3",
-    "url": "/teaching/static/js/main.867c6eb0.chunk.js"
+    "revision": "0fdb224047c5d1fdaadb",
+    "url": "/teaching/static/js/main.d3d4ac10.chunk.js"
   },
   {
     "revision": "0d6edd31997eb39d8aab",
@@ -64,8 +64,28 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/teaching/static/media/disc00_sol.04efd4ec.pdf"
   },
   {
+    "revision": "b0334e84c657241c5da203908d163b77",
+    "url": "/teaching/static/media/disc01.b0334e84.pdf"
+  },
+  {
+    "revision": "dc22583bef52fc77c494a49958723c0b",
+    "url": "/teaching/static/media/disc01_sol.dc22583b.pdf"
+  },
+  {
+    "revision": "12ca80b2622e7a5c249c79e7104f7465",
+    "url": "/teaching/static/media/disc02.12ca80b2.pdf"
+  },
+  {
+    "revision": "a3ff15c5c063cf457c073b85a71182fe",
+    "url": "/teaching/static/media/disc02_sol.a3ff15c5.pdf"
+  },
+  {
     "revision": "32cd1fdb80716931f066eff8fe7555fe",
     "url": "/teaching/static/media/disc_00.32cd1fdb.pdf"
+  },
+  {
+    "revision": "de9697325704156d2e1a80ca149dd810",
+    "url": "/teaching/static/media/disc_02.de969732.pdf"
   },
   {
     "revision": "4e7498424d961e9fbcf656a07624497b",
