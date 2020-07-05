@@ -58,25 +58,25 @@ class Teaching extends React.Component{
                                             <td>0</td>
                                             <td>Wed 6/22</td>
                                             <td>Welcome to 61A! <Badge variant='primary'> <a href={disc0} style={{color:"white"}} target="_blank">slides</a></Badge></td>
-                                            <td><a href={disc0wk} style={{color:"black"}} target="_blank">Disc 00</a><Badge variant='primary'><a href={disc0wksol} style={{color:"white"}} target="_blank">solution</a></Badge></td>
+                                            <td><a href={disc0wk} style={{color:"black"}} target="_blank">Disc 00</a> <Badge variant='primary'><a href={disc0wksol} style={{color:"white"}} target="_blank">solution</a></Badge></td>
                                         </tr>
                                         <tr>
                                             <td>1</td>
                                             <td>Fri 6/26</td>
-                                            <td>Environment Diagrams, Control, Self Reference <Badge variant='primary'><a style={{color:"white"}} target="_blank">slides</a></Badge></td>
-                                            <td><a href={disc1wk} style={{color:"black"}} target="_blank">Disc 01</a><Badge variant='primary'><a href={disc1wksol} style={{color:"white"}} target="_blank">solution</a></Badge></td>
+                                            <td>Environment Diagrams, Control, Self Reference <Badge variant='primary'><a style={{color:"white"}} target="_blank" href="https://docs.google.com/presentation/d/12aLgjG9QOOuC1B-p0CPiWLhA9qrtEH2G3OvMJEUDctY/edit?usp=sharing">slides</a></Badge></td>
+                                            <td><a href={disc1wk} style={{color:"black"}} target="_blank">Disc 01</a> <Badge variant='primary'><a href={disc1wksol} style={{color:"white"}} target="_blank">solution</a></Badge></td>
                                         </tr>
                                         <tr>
                                             <td>2</td>
                                             <td>Wed 7/1</td>
                                             <td>Higher-Order Functions <Badge variant='primary'><a href={disc02} style={{color:"white"}} target="_blank">slides</a></Badge></td>
-                                            <td><a href={disc2wk} style={{color:"black"}} target="_blank">Disc 02</a><Badge variant='primary'><a href={disc2wksol} style={{color:"white"}} target="_blank">solution</a></Badge></td>
+                                            <td><a href={disc2wk} style={{color:"black"}} target="_blank">Disc 02</a> <Badge variant='primary'><a href={disc2wksol} style={{color:"white"}} target="_blank">solution</a></Badge></td>
                                         </tr>
                                         <tr>
                                             <td>3</td>
                                             <td>Fri 7/3</td>
-                                            <td>N/A<Badge variant='primary'>slides</Badge></td>
-                                            <td>Disc 03 <Badge variant='primary'>solution</Badge></td>
+                                            <td>N/A (Diagnostic Quiz)</td>
+                                            <td></td>
                                         </tr>
                                         <tr>
                                             <td>4</td>
