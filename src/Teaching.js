@@ -69,7 +69,7 @@ class Teaching extends React.Component{
                                         <tr>
                                             <td>2</td>
                                             <td>Wed 7/1</td>
-                                            <td>Higher-Order Functions <Badge variant='primary'><a href={disc02} style={{color:"white"}} target="_blank">slides</a></Badge></td>
+                                            <td>Higher-Order Functions <Badge variant='primary'><a href={disc02} style={{color:"white"}} target="_blank">slides </a> </Badge><Badge variant="primary"><a href="https://berkeley.zoom.us/rec/share/x8BJI4jPp35OUon870fvWqN_F7zLT6a81iUbq6AMzEwiLHgrnx0tCZ9hdwC4kCYi?startTime=1593614897000" style={{color:"white"}} target="_blank"> Video</a></Badge></td>
                                             <td><a href={disc2wk} style={{color:"black"}} target="_blank">Disc 02</a> <Badge variant='primary'><a href={disc2wksol} style={{color:"white"}} target="_blank">solution</a></Badge></td>
                                         </tr>
                                         <tr>
