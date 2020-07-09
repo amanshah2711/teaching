@@ -11,6 +11,9 @@ import disc1wksol from './disc01_sol.pdf';
 import disc02 from './disc_02.pdf';
 import disc2wk from './disc02.pdf';
 import disc2wksol from './disc02_sol.pdf';
+import disc04 from './disc_04.pdf';
+import disc4wk from './disc04.pdf';
+import disc4wksol from './disc04_sol.pdf';
 
 class Teaching extends React.Component{
     render() {
@@ -81,8 +84,8 @@ class Teaching extends React.Component{
                                         <tr>
                                             <td>4</td>
                                             <td>Wed 7/8</td>
-                                            <td>Recursion, Tree Recursion <Badge variant='primary'>slides</Badge></td>
-                                            <td>Disc 04 <Badge variant='primary'>solution</Badge></td>
+                                            <td>Recursion, Tree Recursion, Lists <Badge variant='primary'><a href={disc04} style={{color:"white"}} target="_blank">slides </a> </Badge></td>
+                                            <td><a href={disc4wk} style={{color:"black"}} target="_blank">Disc 04</a> <Badge variant='primary'><a href={disc4wksol} style={{color:"white"}} target="_blank">solution</a></Badge></td>
                                         </tr>
                                         <tr>
                                             <td>5</td>
