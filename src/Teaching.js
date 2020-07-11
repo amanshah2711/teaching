@@ -14,6 +14,8 @@ import disc2wksol from './disc02_sol.pdf';
 import disc04 from './disc_04.pdf';
 import disc4wk from './disc04.pdf';
 import disc4wksol from './disc04_sol.pdf';
+import disc5wk from './disc05.pdf';
+import disc5wksol from './disc05_sol.pdf';
 
 class Teaching extends React.Component{
     render() {
@@ -90,8 +92,8 @@ class Teaching extends React.Component{
                                         <tr>
                                             <td>5</td>
                                             <td>Fri 7/10</td>
-                                            <td>Trees, Mutability <Badge variant='primary'>slides</Badge></td>
-                                            <td>Disc 05 <Badge variant='primary'>solution</Badge></td>
+                                            <td>Trees, Mutability <Badge variant='primary'><a href="https://docs.google.com/presentation/d/1kwQfTQhQ9OFIjzVjR2L9VwWoCDX2SMs-pjobFJkbZUI/edit?usp=sharing" style={{color:"white"}} target="_blank">slides </a> </Badge></td>
+                                            <td><a href={disc5wk} style={{color:"black"}} target="_blank">Disc 05</a> <Badge variant='primary'><a href={disc5wksol} style={{color:"white"}} target="_blank">solution</a></Badge></td>
                                         </tr>
                                         <tr>
                                             <td>6</td>
