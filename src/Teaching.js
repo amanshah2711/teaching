@@ -16,6 +16,9 @@ import disc4wk from './disc04.pdf';
 import disc4wksol from './disc04_sol.pdf';
 import disc5wk from './disc05.pdf';
 import disc5wksol from './disc05_sol.pdf';
+import disc06 from './disc_06.pdf';
+import disc6wk from './disc06.pdf';
+import disc6wksol from './disc06_sol.pdf';
 
 class Teaching extends React.Component{
     render() {
@@ -98,8 +101,8 @@ class Teaching extends React.Component{
                                         <tr>
                                             <td>6</td>
                                             <td>Wed 7/15</td>
-                                            <td>Midterm Review, Iterators and Generators<Badge variant='primary'>slides</Badge></td>
-                                            <td>Disc 06 <Badge variant='primary'>solution</Badge></td>
+                                            <td>Nonlocal, Midterm Review<Badge variant='primary'><a href={disc06} style={{color:"white"}} target="_blank">slides </a> </Badge></td>
+                                            <td><a href={disc6wk} style={{color:"black"}} target="_blank">Disc 06</a> <Badge variant='primary'><a href={disc6wksol} style={{color:"white"}} target="_blank">solution</a></Badge></td>
                                         </tr>
                                         <tr>
                                             <td>7</td>

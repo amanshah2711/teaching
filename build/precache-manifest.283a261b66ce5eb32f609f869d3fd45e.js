@@ -1,27 +1,27 @@
 self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
-    "revision": "8c66fbe8f3dbe8ba9505f57e7c441af0",
+    "revision": "f39809f162dc102ee2507f7fe18b8450",
     "url": "/teaching/index.html"
   },
   {
-    "revision": "d8dbd6833d952880af84",
+    "revision": "0c8af3f93c3413a156d4",
     "url": "/teaching/static/css/2.74189dbb.chunk.css"
   },
   {
-    "revision": "7531220bedd25a879f50",
+    "revision": "cecabd401806353da104",
     "url": "/teaching/static/css/main.d1b05096.chunk.css"
   },
   {
-    "revision": "d8dbd6833d952880af84",
-    "url": "/teaching/static/js/2.4a8538c2.chunk.js"
+    "revision": "0c8af3f93c3413a156d4",
+    "url": "/teaching/static/js/2.b13ad939.chunk.js"
   },
   {
     "revision": "4386012a6d334684338618496b7aac20",
-    "url": "/teaching/static/js/2.4a8538c2.chunk.js.LICENSE.txt"
+    "url": "/teaching/static/js/2.b13ad939.chunk.js.LICENSE.txt"
   },
   {
-    "revision": "7531220bedd25a879f50",
-    "url": "/teaching/static/js/main.c99fe63a.chunk.js"
+    "revision": "cecabd401806353da104",
+    "url": "/teaching/static/js/main.53d5764e.chunk.js"
   },
   {
     "revision": "0d6edd31997eb39d8aab",
@@ -96,6 +96,14 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/teaching/static/media/disc05_sol.a8dc5b0b.pdf"
   },
   {
+    "revision": "a7367751c549ad78d191295bb3a38908",
+    "url": "/teaching/static/media/disc06.a7367751.pdf"
+  },
+  {
+    "revision": "344bc66b7485163e84e80c0aa1e03b66",
+    "url": "/teaching/static/media/disc06_sol.344bc66b.pdf"
+  },
+  {
     "revision": "32cd1fdb80716931f066eff8fe7555fe",
     "url": "/teaching/static/media/disc_00.32cd1fdb.pdf"
   },
@@ -106,6 +114,10 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
     "revision": "5947ff50f292b03e037bec2f6dee9e83",
     "url": "/teaching/static/media/disc_04.5947ff50.pdf"
+  },
+  {
+    "revision": "b973d6d10035c22e0093a4e22da68a2e",
+    "url": "/teaching/static/media/disc_06.b973d6d1.pdf"
   },
   {
     "revision": "4e7498424d961e9fbcf656a07624497b",
