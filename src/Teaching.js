@@ -19,6 +19,12 @@ import disc5wksol from './disc05_sol.pdf';
 import disc06 from './disc_06.pdf';
 import disc6wk from './disc06.pdf';
 import disc6wksol from './disc06_sol.pdf';
+import disc8wk from './disc08.pdf';
+import disc8wksol from './disc08_sol.pdf';
+import disc9wk from './disc09.pdf';
+import disc9wksol from './disc09_sol.pdf';
+import disc10wk from './disc10.pdf';
+import disc10wksol from './disc10_sol.pdf';
 
 class Teaching extends React.Component{
     render() {
@@ -113,20 +119,20 @@ class Teaching extends React.Component{
                                         <tr>
                                             <td>8</td>
                                             <td>Wed 7/22</td>
-                                            <td>Object-Oriented Programming(OOP), Nonlocal <Badge variant='primary'>slides</Badge></td>
-                                            <td>Disc 08 <Badge variant='primary'>solution</Badge></td>
+                                            <td>Object Oriented Programming, Iterators, Generators<Badge variant='primary'><a href="https://docs.google.com/presentation/d/1d0S9HIjt_8qyqwVvcxurWLPyclsl5kk-n7ZtpZ-rH4Y/edit?usp=sharing" style={{color:"white"}} target="_blank">slides </a> </Badge></td>
+                                            <td><a href={disc8wk} style={{color:"black"}} target="_blank">Disc 08</a> <Badge variant='primary'><a href={disc8wksol} style={{color:"white"}} target="_blank">solution</a></Badge></td>
                                         </tr>
                                         <tr>
                                             <td>9</td>
                                             <td>Fri 7/24</td>
-                                            <td>Linked Lists, Trees <Badge variant='primary'>slides</Badge></td>
-                                            <td>Disc 09 <Badge variant='primary'>solution</Badge></td>
+                                            <td>Linked Lists, Trees<Badge variant='primary'><a href="https://docs.google.com/presentation/d/1ffLi23rGndlrSj2GxK5tglujeeUi6a2BcG-kOmoxoc0/edit?usp=sharing" style={{color:"white"}} target="_blank">slides </a> </Badge></td>
+                                            <td><a href={disc9wk} style={{color:"black"}} target="_blank">Disc 09</a> <Badge variant='primary'><a href={disc9wksol} style={{color:"white"}} target="_blank">solution</a></Badge></td>
                                         </tr>
                                         <tr>
                                             <td>10</td>
                                             <td>Wed 7/29</td>
-                                            <td>Scheme, Scheme Lists <Badge variant='primary'>slides</Badge></td>
-                                            <td>Disc 10 <Badge variant='primary'>solution</Badge></td>
+                                            <td>Scheme, Scheme Lists<Badge variant='primary'><a href="https://docs.google.com/presentation/d/1-OYz1qegJkJS2ERkOWQM6_oSBhAlNyva6IuJIbUgjzw/edit?usp=sharing" style={{color:"white"}} target="_blank">slides </a> </Badge></td>
+                                            <td><a href={disc10wk} style={{color:"black"}} target="_blank">Disc 10</a> <Badge variant='primary'><a href={disc10wksol} style={{color:"white"}} target="_blank">solution</a></Badge></td>
                                         </tr>
                                         <tr>
                                             <td>11</td>
