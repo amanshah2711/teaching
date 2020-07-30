@@ -1,27 +1,27 @@
 self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
-    "revision": "f39809f162dc102ee2507f7fe18b8450",
+    "revision": "cd4d0870e2d19b734da7177b09166dc8",
     "url": "/teaching/index.html"
   },
   {
-    "revision": "0c8af3f93c3413a156d4",
+    "revision": "255f6f6a9b1ee5945521",
     "url": "/teaching/static/css/2.74189dbb.chunk.css"
   },
   {
-    "revision": "cecabd401806353da104",
+    "revision": "b0962835cb56176650e7",
     "url": "/teaching/static/css/main.d1b05096.chunk.css"
   },
   {
-    "revision": "0c8af3f93c3413a156d4",
-    "url": "/teaching/static/js/2.b13ad939.chunk.js"
+    "revision": "255f6f6a9b1ee5945521",
+    "url": "/teaching/static/js/2.a08fac86.chunk.js"
   },
   {
     "revision": "4386012a6d334684338618496b7aac20",
-    "url": "/teaching/static/js/2.b13ad939.chunk.js.LICENSE.txt"
+    "url": "/teaching/static/js/2.a08fac86.chunk.js.LICENSE.txt"
   },
   {
-    "revision": "cecabd401806353da104",
-    "url": "/teaching/static/js/main.53d5764e.chunk.js"
+    "revision": "b0962835cb56176650e7",
+    "url": "/teaching/static/js/main.9a190b85.chunk.js"
   },
   {
     "revision": "0d6edd31997eb39d8aab",
@@ -102,6 +102,30 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
     "revision": "344bc66b7485163e84e80c0aa1e03b66",
     "url": "/teaching/static/media/disc06_sol.344bc66b.pdf"
+  },
+  {
+    "revision": "0b22a06939de755cb6ad721830394d6a",
+    "url": "/teaching/static/media/disc08.0b22a069.pdf"
+  },
+  {
+    "revision": "0879a194196f7a6ce259d29330f92997",
+    "url": "/teaching/static/media/disc08_sol.0879a194.pdf"
+  },
+  {
+    "revision": "47bea8925bb535bb9d9acc1edea0e0b7",
+    "url": "/teaching/static/media/disc09.47bea892.pdf"
+  },
+  {
+    "revision": "9d96571269218e6cb59c27a683d81525",
+    "url": "/teaching/static/media/disc09_sol.9d965712.pdf"
+  },
+  {
+    "revision": "674ddf755805c838581f7b0b96516ca5",
+    "url": "/teaching/static/media/disc10.674ddf75.pdf"
+  },
+  {
+    "revision": "5b5cb4408ba94864be5b5cdc2764853c",
+    "url": "/teaching/static/media/disc10_sol.5b5cb440.pdf"
   },
   {
     "revision": "32cd1fdb80716931f066eff8fe7555fe",
