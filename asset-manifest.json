@@ -1,19 +1,19 @@
 {
   "files": {
     "main.css": "/teaching/static/css/main.d1b05096.chunk.css",
-    "main.js": "/teaching/static/js/main.9a190b85.chunk.js",
-    "main.js.map": "/teaching/static/js/main.9a190b85.chunk.js.map",
+    "main.js": "/teaching/static/js/main.ad77933b.chunk.js",
+    "main.js.map": "/teaching/static/js/main.ad77933b.chunk.js.map",
     "runtime-main.js": "/teaching/static/js/runtime-main.bdab9469.js",
     "runtime-main.js.map": "/teaching/static/js/runtime-main.bdab9469.js.map",
     "static/css/2.74189dbb.chunk.css": "/teaching/static/css/2.74189dbb.chunk.css",
-    "static/js/2.a08fac86.chunk.js": "/teaching/static/js/2.a08fac86.chunk.js",
-    "static/js/2.a08fac86.chunk.js.map": "/teaching/static/js/2.a08fac86.chunk.js.map",
+    "static/js/2.5da77b6a.chunk.js": "/teaching/static/js/2.5da77b6a.chunk.js",
+    "static/js/2.5da77b6a.chunk.js.map": "/teaching/static/js/2.5da77b6a.chunk.js.map",
     "index.html": "/teaching/index.html",
-    "precache-manifest.3a07f20ceb001f83e06a2445bd36d488.js": "/teaching/precache-manifest.3a07f20ceb001f83e06a2445bd36d488.js",
+    "precache-manifest.f7886b36d3e3c779fd78f99f552ace3a.js": "/teaching/precache-manifest.f7886b36d3e3c779fd78f99f552ace3a.js",
     "service-worker.js": "/teaching/service-worker.js",
     "static/css/2.74189dbb.chunk.css.map": "/teaching/static/css/2.74189dbb.chunk.css.map",
     "static/css/main.d1b05096.chunk.css.map": "/teaching/static/css/main.d1b05096.chunk.css.map",
-    "static/js/2.a08fac86.chunk.js.LICENSE.txt": "/teaching/static/js/2.a08fac86.chunk.js.LICENSE.txt",
+    "static/js/2.5da77b6a.chunk.js.LICENSE.txt": "/teaching/static/js/2.5da77b6a.chunk.js.LICENSE.txt",
     "static/media/black_bishop.svg": "/teaching/static/media/black_bishop.1f3b8d1a.svg",
     "static/media/black_king.svg": "/teaching/static/media/black_king.66e1bcad.svg",
     "static/media/black_knight.svg": "/teaching/static/media/black_knight.d39f1d02.svg",
@@ -39,6 +39,8 @@
     "static/media/disc09_sol.pdf": "/teaching/static/media/disc09_sol.9d965712.pdf",
     "static/media/disc10.pdf": "/teaching/static/media/disc10.674ddf75.pdf",
     "static/media/disc10_sol.pdf": "/teaching/static/media/disc10_sol.5b5cb440.pdf",
+    "static/media/disc11.pdf": "/teaching/static/media/disc11.a1a729f4.pdf",
+    "static/media/disc11_sol.pdf": "/teaching/static/media/disc11_sol.79d60c61.pdf",
     "static/media/disc_00.pdf": "/teaching/static/media/disc_00.32cd1fdb.pdf",
     "static/media/disc_02.pdf": "/teaching/static/media/disc_02.cc09233d.pdf",
     "static/media/disc_04.pdf": "/teaching/static/media/disc_04.5947ff50.pdf",
@@ -54,8 +56,8 @@
   "entrypoints": [
     "static/js/runtime-main.bdab9469.js",
     "static/css/2.74189dbb.chunk.css",
-    "static/js/2.a08fac86.chunk.js",
+    "static/js/2.5da77b6a.chunk.js",
     "static/css/main.d1b05096.chunk.css",
-    "static/js/main.9a190b85.chunk.js"
+    "static/js/main.ad77933b.chunk.js"
   ]
 }

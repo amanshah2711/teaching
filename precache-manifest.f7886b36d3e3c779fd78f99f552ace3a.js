@@ -1,27 +1,27 @@
 self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
-    "revision": "cd4d0870e2d19b734da7177b09166dc8",
+    "revision": "6bcad491763eef9a7ae4eae81d6e63b8",
     "url": "/teaching/index.html"
   },
   {
-    "revision": "255f6f6a9b1ee5945521",
+    "revision": "6498a43c663b98e5e97e",
     "url": "/teaching/static/css/2.74189dbb.chunk.css"
   },
   {
-    "revision": "b0962835cb56176650e7",
+    "revision": "0dacff34ed117ebc6bb7",
     "url": "/teaching/static/css/main.d1b05096.chunk.css"
   },
   {
-    "revision": "255f6f6a9b1ee5945521",
-    "url": "/teaching/static/js/2.a08fac86.chunk.js"
+    "revision": "6498a43c663b98e5e97e",
+    "url": "/teaching/static/js/2.5da77b6a.chunk.js"
   },
   {
     "revision": "4386012a6d334684338618496b7aac20",
-    "url": "/teaching/static/js/2.a08fac86.chunk.js.LICENSE.txt"
+    "url": "/teaching/static/js/2.5da77b6a.chunk.js.LICENSE.txt"
   },
   {
-    "revision": "b0962835cb56176650e7",
-    "url": "/teaching/static/js/main.9a190b85.chunk.js"
+    "revision": "0dacff34ed117ebc6bb7",
+    "url": "/teaching/static/js/main.ad77933b.chunk.js"
   },
   {
     "revision": "0d6edd31997eb39d8aab",
@@ -126,6 +126,14 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
     "revision": "5b5cb4408ba94864be5b5cdc2764853c",
     "url": "/teaching/static/media/disc10_sol.5b5cb440.pdf"
+  },
+  {
+    "revision": "a1a729f472df1c210db033934b0b88d9",
+    "url": "/teaching/static/media/disc11.a1a729f4.pdf"
+  },
+  {
+    "revision": "79d60c619c9d45911403b4ed8cda52df",
+    "url": "/teaching/static/media/disc11_sol.79d60c61.pdf"
   },
   {
     "revision": "32cd1fdb80716931f066eff8fe7555fe",
