@@ -25,6 +25,8 @@ import disc9wk from './disc09.pdf';
 import disc9wksol from './disc09_sol.pdf';
 import disc10wk from './disc10.pdf';
 import disc10wksol from './disc10_sol.pdf';
+import disc11wk from './disc11.pdf';
+import disc11wksol from './disc11_sol.pdf';
 
 class Teaching extends React.Component{
     render() {
@@ -137,8 +139,8 @@ class Teaching extends React.Component{
                                         <tr>
                                             <td>11</td>
                                             <td>Fri 7/31</td>
-                                            <td>Interpreters <Badge variant='primary'>slides</Badge></td>
-                                            <td>Disc 11 <Badge variant='primary'>solution</Badge></td>
+                                            <td>Tail Recursion, Macros<Badge variant='primary'><a href="https://docs.google.com/presentation/d/1fFppc8_Zr55BfkUHKM6c0JvyfkabirfHroaTlARfw1k/edit?usp=sharing" style={{color:"white"}} target="_blank">slides </a> </Badge></td>
+                                            <td><a href={disc11wk} style={{color:"black"}} target="_blank">Disc 11</a> <Badge variant='primary'><a href={disc11wksol} style={{color:"white"}} target="_blank">solution</a></Badge></td>
                                         </tr>
                                         <tr>
                                             <td>12</td>
