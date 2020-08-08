@@ -27,6 +27,10 @@ import disc10wk from './disc10.pdf';
 import disc10wksol from './disc10_sol.pdf';
 import disc11wk from './disc11.pdf';
 import disc11wksol from './disc11_sol.pdf';
+import disc12wk from './disc12.pdf';
+import disc12wksol from './disc12_sol.pdf';
+import disc13wk from './disc13.pdf';
+import disc13wksol from './disc13_sol.pdf';
 
 class Teaching extends React.Component{
     render() {
@@ -145,14 +149,14 @@ class Teaching extends React.Component{
                                         <tr>
                                             <td>12</td>
                                             <td>Wed 8/5</td>
-                                            <td>Macros <Badge variant='primary'>slides</Badge></td>
-                                            <td>Disc 12 <Badge variant='primary'>solution</Badge></td>
+                                            <td>Streams<Badge variant='primary'><a href="https://docs.google.com/presentation/d/1JuR0MXZTRMrbxZgrIucmD3SKWX7w4wJ6L29uc6ER6e0/edit?usp=sharing" style={{color:"white"}} target="_blank">slides </a> </Badge></td>
+                                            <td><a href={disc12wk} style={{color:"black"}} target="_blank">Disc 12</a> <Badge variant='primary'><a href={disc12wksol} style={{color:"white"}} target="_blank">solution</a></Badge></td>
                                         </tr>
                                         <tr>
                                             <td>13</td>
                                             <td>Fri 8/7</td>
-                                            <td>SQL <Badge variant='primary'>slides</Badge></td>
-                                            <td>Disc 13 <Badge variant='primary'>solution</Badge></td>
+                                            <td>SQL</td>
+                                            <td><a href={disc13wk} style={{color:"black"}} target="_blank">Disc 13</a> <Badge variant='primary'><a href={disc13wksol} style={{color:"white"}} target="_blank">solution</a></Badge></td>
                                         </tr>
                                         <tr>
                                             <td>14</td>
